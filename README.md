@@ -72,7 +72,7 @@ Ensure you have the following installed:
 - Implementing a **3D visualization module** for immersive architectural design.
 
 ## Contributing
-Contributions are welcome! Feel free to submit a pull request or report issues.
+Contributions are welcome! Feel free to submit a pulll request or report issues.
 
 ## License
 This project is licensed under the **MIT License**.
